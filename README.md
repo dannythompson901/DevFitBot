@@ -1,3 +1,5 @@
+NODE MODULES IS EXCLUDED FROM THIS!!! Must add node modules.
+
 ## Reweet Bot 
 
 Retweets the latest tweet using the **"#DevFit"** hashtag. 
